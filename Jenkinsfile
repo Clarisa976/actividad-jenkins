@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Copiando los ficheros'
+                echo 'Copiando los ficheros '
                 sh 'npm install'
                 sh 'npm run build'                
             }
