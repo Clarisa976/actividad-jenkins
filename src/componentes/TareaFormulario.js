@@ -29,7 +29,7 @@ function TareaFormulario(props) {
       <input
         className='tarea-input'
         type='text'
-        placeholder='Escribe el quehacer'
+        placeholder='Escribe los quereceres'
         name='texto'
         onChange={manejarCambio}
       />
