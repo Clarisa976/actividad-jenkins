@@ -12,7 +12,7 @@ function App() {
           className='freecodecamp-logo' />
       </div>
       <div className='tareas-lista-principal'>
-        <h1>Querehaceres</h1>
+        <h1>muchos quereceres</h1>
         <ListaDeTareas />
       </div>
     </div>
