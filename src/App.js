@@ -6,13 +6,13 @@ function App() {
   return (
     <div className='aplicacion-tareas'>
       <div className='freecodecamp-logo-contenedor'>
-        <img 
-          src={freeCodeCampLogo} 
+        <img
+          src={freeCodeCampLogo}
           alt=""
           className='freecodecamp-logo' />
       </div>
       <div className='tareas-lista-principal'>
-        <h1>Las tareas</h1>
+        <h1>Querehaceres</h1>
         <ListaDeTareas />
       </div>
     </div>
